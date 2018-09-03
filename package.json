@@ -1,0 +1,23 @@
+{
+  "name": "js_-algorithms--largestrange",
+  "version": "1.0.0",
+  "description": "Input:Your SolutionOur SolutionNo changes made. Run Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince7475/Js_-algorithms--largestRange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince7475/Js_-algorithms--largestRange/issues"
+  },
+  "homepage": "https://github.com/prince7475/Js_-algorithms--largestRange#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
