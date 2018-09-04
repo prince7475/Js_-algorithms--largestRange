@@ -1,6 +1,6 @@
 
 const chai = require('chai')
-const program = require('./largestrange')
+const program = require('./SecondGo')
 
 
 describe('Largest Range', function () {
